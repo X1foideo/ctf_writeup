@@ -12,7 +12,7 @@
 
 Analyzing the SecretRezipe web-page we notice that the only thing we are able to do is "Suggesting Some Ingredients" for the Refreshing Drinks they offer.
 
- ![Screenshot 2022-07-27 alle 12 18 12](https://user-images.githubusercontent.com/12828790/181280980-c429da09-244b-4c05-8b2e-1c6c4e298d00.png)
+ <img src="https://user-images.githubusercontent.com/12828790/181280980-c429da09-244b-4c05-8b2e-1c6c4e298d00.png" width="600">
 
 After downloading the *ingredients.zip* we notice that it is protected by a password.
 
@@ -47,7 +47,7 @@ Nope.
 The password is randomically generated and is a 36-character v4 UUID and... We cannot bruteforce it.
 
 
-![hello-darkness-my-old-friend](https://user-images.githubusercontent.com/12828790/181281550-0688d970-771c-4b34-871d-8494150983df.jpg)
+<img src="https://user-images.githubusercontent.com/12828790/181281550-0688d970-771c-4b34-871d-8494150983df.jpg" width="600">
 
 
 ## The Real (Slim Shady) Solution
@@ -60,7 +60,7 @@ Leaving the box empty and downloading the file we notice that
 zipdetails 'ingredients.zip'
 ```
 
-<img width="488" alt="Screenshot 2022-07-27 alle 16 27 32" src="https://user-images.githubusercontent.com/12828790/181281726-172eb698-b6ec-47d2-b1c5-04d8585dfc1b.png">
+<img width="600" alt="Screenshot 2022-07-27 alle 16 27 32" src="https://user-images.githubusercontent.com/12828790/181281726-172eb698-b6ec-47d2-b1c5-04d8585dfc1b.png">
 
 The *Compression Method* is "Stored".
 
@@ -101,7 +101,7 @@ We NEED a faster way, and more error proof, since we are assuming that *ingredie
 
 Inserting some "a" (a thousand is enough) and downloading the file we get a really HORRIBLE news.
 
-![i-fear-no-man-but-that-thing-it-scares-me-274501-1](https://user-images.githubusercontent.com/12828790/181282276-84685f80-5629-4912-850c-f94ad7a9e611.jpg)
+<img width="600" alt="Screenshot 2022-07-27 alle 16 27 32" src="https://user-images.githubusercontent.com/12828790/181282276-84685f80-5629-4912-850c-f94ad7a9e611.jpg">
 
 
 DEFLATE METHOD
