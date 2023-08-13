@@ -12,7 +12,7 @@
 Starting the Instance, we get a Host.
 First idea is to check it with nc, so let's give it a try:
 
-<img width="745" alt="Screenshot 2022-12-06 alle 15 59 30" src="https://user-images.githubusercontent.com/12828790/205954894-b6fbece3-7b31-4204-a91d-5a948aea9936.png">
+<img width="600" alt="Screenshot 2022-12-06 alle 15 59 30" src="https://user-images.githubusercontent.com/12828790/205954894-b6fbece3-7b31-4204-a91d-5a948aea9936.png">
 Scanning the QR we get some calculations to do, in 3 seconds.
 I'm not a supergenius and not so fast (at least not my phone) for scanning, reading and solving the problem.
 What a news, we need to automatize it.
