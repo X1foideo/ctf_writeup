@@ -61,12 +61,14 @@ However it's not possible to generate a token with the given credentials as show
 In the Cipher Block Chaining (CBC) mode of operation, each plaintext block is XORed with the previous ciphertext block before being encrypted.
 
 _CT = E(PT^IV)_
-![encrypt.jpg](/img/flip/encrypt.jpg)
+
+<img src="/img/flip/encrypt.png" width="600" display="block">
 
 While considering decryption:
 
 _PT = D(CT) ^ IV_
-![decrypt.png](/img/flip/decrypt.png)
+
+<img src="/img/flip/decrypt.png" width="600">
 So the plaintext of each block depends not only on the corresponding block of ciphertext, but also on the previous block of ciphertext.
 
 
@@ -86,11 +88,11 @@ so that the whole token would be "correct" except for the first encrypted byte, 
 
 #### Bit-Flipping Attack
 
-![bitflipping.png](/img/flip/bitflipping.png)
+<img src="/img/flip/bitflipping.png" width="600">
 
 Suppose an attacker wishes to manipulate block _i_ of the plaintext.
 He then XORs the previous ciphertext block with _x_:
-![math_bitflipping.png](/img/flip/math_bitflipping.png)
+<img src="/img/flip/math_bitflipping.png" width="600">
 
 #### Flag
 
