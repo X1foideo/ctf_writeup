@@ -4,6 +4,7 @@
 
 
 ## Challenge Description
+
 > Let's see if you're a QuickR soldier as you pretend to be
 
 
