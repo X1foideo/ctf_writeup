@@ -20,7 +20,7 @@ Loking for this type of file on the internet, it is possible to find out that is
 Open the file with _Wireshark_ and **Decode As...** "_BT HID_".
 It is possible to see that most of the packets are 15 in Length, while a minority is 17.
 
-<img src="/img/mainthemiddle/wiresharkcapture.png" width="600">
+<img src="/img/manthemiddle/wiresharkcapture.png" width="600">
 
 Analyzing the _Bluetooth HID Profile_ it's possible to notice that:
 - 15 Len Packets are Mouse Captures
@@ -36,7 +36,7 @@ This last one is quite strange since usually htb-flags begin with '_htb{_...}'.
 Keeping in mind this information we notice that 
 - _Modifier: LEFT SHIFT: True_
 
-<img src="/img/mainthemiddle/wiresharkshifttrue.png" width="600">
+<img src="/img/manthemiddle/wiresharkshifttrue.png" width="600">
 
 Implying that it's a '{' and not a '\['
 
