@@ -62,13 +62,13 @@ In the Cipher Block Chaining (CBC) mode of operation, each plaintext block is XO
 
 _CT = E(PT^IV)_
 
-<img src="/img/flip/encrypt.png" width="600" display="block">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/flip/encrypt.png?raw=true" width="600" display="block">
 
 While considering decryption:
 
 _PT = D(CT) ^ IV_
 
-<img src="/img/flip/decrypt.png" width="600">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/flip/decrypt.png?raw=true" width="600">
 So the plaintext of each block depends not only on the corresponding block of ciphertext, but also on the previous block of ciphertext.
 
 
@@ -88,11 +88,11 @@ so that the whole token would be "correct" except for the first encrypted byte, 
 
 #### Bit-Flipping Attack
 
-<img src="/img/flip/bitflipping.png" width="600">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/flip/bitflipping.png?raw=true" width="600">
 
 Suppose an attacker wishes to manipulate block _i_ of the plaintext.
 He then XORs the previous ciphertext block with _x_:
-<img src="/img/flip/math_bitflipping.png" width="600">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/flip/math_bitflipping.png?raw=true" width="600">
 
 #### Flag
 

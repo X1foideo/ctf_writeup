@@ -31,7 +31,7 @@ PORT     STATE SERVICE VERSION
 
 Exploring the website, and watching all those adorable kittens, there is an interesting description for "_timo-volz_"
 
-<img src="/img/catspictures2/timo-volz.jpg" width="600">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/catspictures2/timo-volz.jpg?raw=true" width="600">
 
 > Description --> note to self: strip metadata
 
@@ -80,7 +80,7 @@ ansible runner (olivetin): port 1337
 
 #### Gitea
 
-<img src="/img/catspictures2/gitea.png" width="600">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/catspictures2/gitea.png?raw=true" width="600">
 
 No words needed...
 
@@ -89,9 +89,9 @@ No words needed...
 
 #### OliveTin
 
-<img src="/img/catspictures2/olivetin.png" width="600">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/catspictures2/olivetin.png?raw=true" width="600">
 
-Inspecting the web-page, third button says "Run Ansible Playbook", the same playbook.yaml in the ansiblle repo, hosted on Gitea.
+Inspecting the web-page, third button says "Run Ansible Playbook", the same playbook.yaml in the ansible repo, hosted on Gitea.
 
 Inspecting _playbook.yaml_ we get:
 ```yaml
@@ -114,7 +114,7 @@ Inspecting _playbook.yaml_ we get:
 
 Command executed should be "whoami", chencking the results in the Logs page on OliveTin, we get "bismuth".
 
-<img src="/img/catspictures2/gitea_meme.jpeg" width="600">
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/catspictures2/gitea_meme.jpeg?raw=true" width="600">
 
 Changing command from "whoami" to "ls", stdout stats that there is a _flag2.txt_, change code again to "cat flag2.txt" and get the second flag.
 
