@@ -112,9 +112,9 @@ In the mean time it's possible to notice that the uploaded files are uploaded in
 Rev Shell? Of Course, Why Not?
 
 - Create a \*.php file
-```bash
-nano monkey.php
-```
+  ```bash
+  nano monkey.php
+  ```
 - Paste the PHP PentestMonkey Payload
 - Since we need to edit the first bytes of the file, let's add at the beginning of the file as many dots as bytes we are going to edit
   (EG: line 12 in _upload.php_ shows that 'jpg' magicbytes are _'ffd8ffe0'_, 4 bytes --> 4 dots)
@@ -138,18 +138,18 @@ nano monkey.php
 _Extra: Stabilize the shell_
 
 - After Getting the Revshell with nc paste
-```bash
-python3 -c 'import pty;pty.spawn("/bin/bash")'
-```
+  ```bash
+  python3 -c 'import pty;pty.spawn("/bin/bash")'
+  ```
 - Press `CTRL + Z` to background process
 - Paste
-```bash
-stty raw -echo; fg
-```
+  ```bash
+  stty raw -echo; fg
+  ```
 - Paste
-```bash
-export TERM=xterm
-```
+  ```bash
+  export TERM=xterm
+  ```
 
 Move to _backup_ folder in _/var/www_ and cat 'users.sql'.
 
