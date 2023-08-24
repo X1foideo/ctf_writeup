@@ -71,12 +71,12 @@ What to do if not looking on GitHub?
 On GitHub looking for _SearchME!_ gives us 12 results, but no one seems to be suitable for us.
 Moving to _Code_ Filter, we find out that there is a _"supersecuredeveloper/searchmecms · public/html/index.php"_ with something interesting in it:
 
-IMAGE
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/grep/githubsearchme.png?raw=true" width="600" display="block">
 
 Inspecting code we find that the API is in the _register.php_ file, under api.
 Unfortunately the developer was smart enough not to make public the API...
 
-IMAGE
+<img src="https://github.com/x1foideo/CTFs-Writeups/blob/main/img/grep/hiddenkey.png?raw=true" width="600" display="block">
 
 OR NOT
 
