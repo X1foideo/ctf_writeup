@@ -138,14 +138,14 @@ nano monkey.php
 _Extra: Stabilize the shell_
 
 - After Getting the Revshell with nc paste
-  ```bash
-  python3 -c 'import pty;pty.spawn("/bin/bash")'
-  ```
+```bash
+python3 -c 'import pty;pty.spawn("/bin/bash")'
+```
 - Press `CTRL + Z` to background process
 - Paste
-  ```bash
-  stty raw -echo; fg
-  ```
+```bash
+stty raw -echo; fg
+```
 - Paste
 ```bash
 export TERM=xterm
