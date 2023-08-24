@@ -198,7 +198,7 @@ As before:
 After becoming root, cd to /root and cat _flag3.txt_
 
 
-#nmap #revereshell #olivetin #gitea #ssh #id_rsa
+#nmap #reverseshell #revshell #olivetin #gitea #ssh #id_rsa
 
 
 
