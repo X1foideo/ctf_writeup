@@ -6,7 +6,7 @@ This repo contains my solutions for various CTF I've partecipated.
 | Platform | Category | Name                                                                                                           |
 | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
 | HTB      | Crypto   | [BabyEncription](https://github.com/x1foideo/CTFs-Writeups/blob/main/HTB/Crypto/Baby%20Encryption.md)          |
-| HTB      | Misc     | [Bashic Calculator]()                                                                                                               |
+| HTB      | Misc     | [Bashic Calculator](https://github.com/x1foideo/CTFs-Writeups/blob/main/HTB/Misc/Bashic%20Calculator.md)                                                                                                               |
 | HTB      | Machine  | [CozyHosting](https://github.com/x1foideo/CTFs-Writeups/blob/main/HTB/Machines/CozyHosting.md)                 |
 | HTB      | Forensic | [Illumination](https://github.com/x1foideo/CTFs-Writeups/blob/main/HTB/Forensics/Illuminaton.md)               |
 | HTB      | Misc     | [Man In The Middle](https://github.com/x1foideo/CTFs-Writeups/blob/main/HTB/Misc/Man%20In%20The%20Middle.md)   |
