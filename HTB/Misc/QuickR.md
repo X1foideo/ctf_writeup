@@ -150,4 +150,4 @@ result = nc.recv()
 print(result)
 ```
 
-And we got the Flag.
+Get the Flag

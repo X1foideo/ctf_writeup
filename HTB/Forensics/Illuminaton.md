@@ -8,8 +8,7 @@
   la
   ```
 
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/12828790/168432470-3878eccb-a7f6-4c71-9b60-28bdcb463ba1.png)" width="600">
-
+<img src="https://user-images.githubusercontent.com/12828790/168432470-3878eccb-a7f6-4c71-9b60-28bdcb463ba1.png" width="600">
 
 - Let's check if there are logs of the past:
   

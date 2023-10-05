@@ -143,5 +143,7 @@ bkcrack -C 'ingredients.zip' -k 'key' -U unencr_ingredients.zip 'new_password'
 
 Unzip and Enjoy
 
+Get the Flag
+
 
 #zip #bkcrack #password

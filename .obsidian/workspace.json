@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "77bb4534508365e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e101af5f5c31d56b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e0a1fe754977061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Misc/Bashic Calculator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "308ecd6ec58e6af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "829f0c09101b4a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7f976257255a16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa7e23ffadeb8dba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "256102490c37ab1a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddbb1906ed218035",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef2f421115d50351",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc79e27d4b9de5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "590fa418325754e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB/Misc/Bashic Calculator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83c36f3feff33fde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB/Misc/Bashic Calculator.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a76303cac0e5f783",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "640846ffcbb9b858",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB/Misc/Bashic Calculator.md"
+              }
+            }
+          },
+          {
+            "id": "d56eee404e0360e7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d62af7b931b28834",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "aa7e23ffadeb8dba",
+  "lastOpenFiles": [
+    "HTB/Misc/Man In The Middle.md",
+    "HTB/Misc/Bashic Calculator.md",
+    "HTB/Misc/QuickR.md",
+    "HTB/Misc/SecretRezipe.md",
+    "Template.md",
+    "README.md",
+    "HTB/Machines/CozyHosting.md",
+    "TryHackMe/Expose.md",
+    "HTB/Forensics/Illuminaton.md",
+    "TryHackMe/Grep.md",
+    "img/cozyhosting/index_page.png",
+    "img/cozyhosting/error_page.png",
+    "img/cozyhosting/dashboard_page.png",
+    "img/cozyhosting",
+    "TryHackMe/Flip.md",
+    "TryHackMe/Cat Pictures 2.md",
+    "HTB/Machines",
+    "sekaiCTF/2023/I love this world.md",
+    "img/expose/dom.png",
+    "img/expose/chatai.png",
+    "img/expose/admin_101.png",
+    "img/expose",
+    "sekaiCTF/2023",
+    "sekaiCTF",
+    "img/secretrezipe.png",
+    "img/grep/grep_logo.png",
+    "img/grep/hiddenkey.png",
+    "img/grep/githubsearchme.png",
+    "img/grep",
+    "TryHackMe/Untitled.md",
+    "TryHackMe/Cats Pictures 2.md",
+    "img/maninthemiddle",
+    "CC/Crypto/1.08 - Redacted.md",
+    "HTB/Crypto/Baby Encryption.md",
+    "img/flip",
+    "picoCTF/Forensic/tunn3l v1s10n.md",
+    "img/catspictures2",
+    "timo-volz.md",
+    "assets/CSS/css_snippet.css",
+    "Untitled.canvas",
+    "HTB/Misc/M0rsarchive.md"
+  ]
+}

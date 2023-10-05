@@ -135,7 +135,7 @@ Rev Shell? Of Course, Why Not?
 - Navigate to /api/uploads/ and open the file
 
 
-_Extra: Stabilize the shell_
+_Extra: pexStabilize the shell_
 
 - After Getting the Revshell with nc paste
   ```bash
