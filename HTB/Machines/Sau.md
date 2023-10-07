@@ -1,6 +1,6 @@
 # Sau
 
-######  Easy- x1foideo
+######  Easy - x1foideo
 
 
 ## Initial Recon 
